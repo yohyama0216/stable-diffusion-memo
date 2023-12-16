@@ -1,5 +1,6 @@
 # 画像作成のコツ
-LoRAで学習させた画像に対して、insightfaceとcodeformerで仕上げる
+手法1 LoRAで学習させて画像を出す。出した画像に対して、insightfaceとcodeformerで仕上げる
+手法2 LoRAなしで画像を出してADetailerで全体にLoRAを適用する。（epic系だと白人っぽさが強く出る）
 
 # LoRA作成のコツ
 * 人物系
