@@ -8,6 +8,7 @@ LoRAの影響が強いので割合を下げる。
 # 画像作成のコツ
 手法1 LoRAで学習させて画像を出す。出した画像に対して、insightfaceとcodeformerで仕上げる
 手法2 LoRAなしで画像を出してADetailerで全体にLoRAを適用する。（epic系だと白人っぽさが強く出る）
+手法3 適当に拾った画像にADetailerをしたあとにinsightfaceとcodeformer。（元画像に左右されにくい
 
 
 
