@@ -1,9 +1,26 @@
 # 元絵画像のコツ
 どっかの写真集の画像をひろってきたほうが安定した構図になる
 
-ランダム姿勢、場所、服、色、などをするには？ 
+ランダム姿勢、場所、服、色、などをするには？  プラグイン使う？
 LoRAの影響が強いので割合を下げる。
+inswapper付のfaceswapを使うと効率アップ
 
+Dynamic Promptを使えばOK
+メモ
+1girl,  solo, narrow waist, 
+asymmetrical parted bangs, 
+{ lookin at viewer | looking back | looking to the side | looking at another | looking away }, 
+detailed face,
+{ light smile | open mouth, tongue out | surprised },
+{ completely nude | decorated lingerie | bikini | tank top | office lady | yoga },
+{ light blue | light green | dark red },
+{ upper body | full body }
+{ from above | from below | full frontal },
+{ outdoor | studio | selfie, changing room | public nudity },
+looking at viewer, best quality, absurdres, long hair,
+{ graceful movements | standing | sitting | squatting | leaning forward | leaning back | leaning to the side | lying on bed },
+{ arms behind back | arms up | hand up | spread legs | legs up }
+<lora:mymodel1110-takara-epoch300:0.7>
 
 # 画像作成のコツ
 手法1 LoRAで学習させて画像を出す。出した画像に対して、insightfaceとcodeformerで仕上げる
