@@ -11,13 +11,13 @@ Dynamic Promptを使えばOK
 asymmetrical parted bangs, 
 { lookin at viewer | looking back | looking to the side | looking at another | looking away }, 
 detailed face,
-{ light smile | open mouth, tongue out | surprised },
-{ completely nude | decorated lingerie | bikini | tank top | office lady | yoga },
+ large earrings,
+{ light smile | open mouth, tongue out | surprised | crying with eyes open },
+{ completely nude , pubic hair, | decorated lingerie | bikini | tank top | office suit | yoga | camisole | tube top },
 { light blue | light green | dark red },
-{ upper body | full body }
 { from above | from below | full frontal },
-{ outdoor | studio | selfie, changing room | public nudity },
-looking at viewer, best quality, absurdres, long hair,
+{ hotel room | outdoor | studio | selfie, changing room | public nudity },
+best anatomy, best quality, absurdres, long hair,
 { graceful movements | standing | sitting | squatting | leaning forward | leaning back | leaning to the side | lying on bed },
 { arms behind back | arms up | hand up | spread legs | legs up }
 <lora:mymodel1110-takara-epoch300:0.7>
