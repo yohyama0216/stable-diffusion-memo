@@ -14,6 +14,8 @@ Dynamic Promptを使えばOK
 メモ
 1girl,  solo, narrow waist, 
 asymmetrical parted bangs, 
+{ angry | surprised | sleepy | cry }
+{ open mouth | closed mouth }
 { lookin at viewer | looking back | looking to the side | looking at another | looking away }, 
 detailed face,
  large earrings,
