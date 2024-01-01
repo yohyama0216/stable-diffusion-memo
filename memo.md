@@ -12,22 +12,18 @@ inswapper付のfaceswapを使うと効率アップ
 
 Dynamic Promptを使えばOK
 メモ
-1girl,  solo, narrow waist, 
-asymmetrical parted bangs, 
-{ angry | surprised | sleepy | cry }
-{ open mouth | closed mouth }
-{ lookin at viewer | looking back | looking to the side | looking at another | looking away }, 
-detailed face,
- large earrings,
-{ light smile | open mouth, tongue out | surprised | crying with eyes open },
-{ completely nude , pubic hair, | decorated lingerie | bikini | tank top | office suit | yoga | camisole | tube top },
-{ light blue | light green | dark red },
+1girl, solo, narrow waist, asymmetrical parted bangs,
+{ light smile | angry | surprised | sleepy | cry },
+{ open mouth | closed mouth }, { open eye | closed eye }
+{ lookin at viewer | looking back | looking to the side | looking at another | looking away },
+detailed face, 
+{ completely nude , pubic hair, | decorated light green lingerie }, 
 { from above | from below | full frontal },
-{ hotel room | outdoor | studio | selfie, changing room | public nudity },
-best anatomy, best quality, absurdres, long hair,
-{ graceful movements | standing | sitting | squatting | leaning forward | leaning back | leaning to the side | lying on bed },
-{ arms behind back | arms up | hand up | spread legs | legs up }
-<lora:mymodel1110-takara-epoch300:0.7>
+changing room, laundry, shelf, towel, mirror, tooth brush, cup,
+best anatomy, best quality, absurdres, medium hair, 
+{ standing | squatting leaning forward | leaning back | leaning to the side | lying},
+{ arms behind back | arms up | hand up | spread legs | legs up } 
+<lora:hiyamasaya_lora-05:0.8> 
 
 # 画像作成のコツ
 手法1 LoRAで学習させて画像を出す。出した画像に対して、insightfaceとcodeformerで仕上げる
